@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Illinois Institute of Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - Present: Research Engineer
+  * Illinois Institute of Technology
+   • Working on enhancing safe ambulation for people with hemiplegia in moderately crowded environments.
+   • Interviewing people with hemiplegia to better understand user needs. 
+   • Strengthened engineering skills in user-centered design, material evaluation, and prototyping.
+  * Supervisors: Mark Miller, Nelson Rosa, Kevin Meade 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Teaching Assistant for CS 351: Systems Programming
+  * Illinois Institute of Technology
+  * Duties includes:
+      •	Taught students the fundamentals of C, emphasizing its importance in systems programming due to its efficiency and low-level access to memory and hardware.
+      •	 Guided students in understanding x86 architecture, including CPU registers, memory management, and the instruction set. This knowledge was critical for writing efficient systems-level code.
+      •	Provided students with hands-on experience in systems programming using x86 architecture. 
+  * Supervisor: Farshad Ghanei 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Research Assistant 
+  * Illinois Institute of Technology
+  * Duties includes:
+    	•	Researched and executed Caper, an open-source tool for converting packet filters into machine-executable instructions, enhancing network traffic analysis efficiency by 20%. 
+      •	Video : http://www.cs.iit.edu/~nsultana1/files/aditi_presentation.mp4
+  * Supervisor: Nik Sultana
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages : C++, Python, C, Racket, Dart 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
