@@ -18,8 +18,11 @@ Work experience
 * July 2024 - Present: Research Engineer
   * Illinois Institute of Technology
    • Working on enhancing safe ambulation for people with hemiplegia in moderately crowded environments.
-   • Interviewing people with hemiplegia to better understand user needs. 
+
+   • Interviewing people with hemiplegia to better understand user needs.
+  
    • Strengthened engineering skills in user-centered design, material evaluation, and prototyping.
+  
   * Supervisors: Mark Miller, Nelson Rosa, Kevin Meade 
 
 * Spring 2024: Teaching Assistant for CS 351: Systems Programming
