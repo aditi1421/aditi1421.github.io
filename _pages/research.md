@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 {% include base_path %}
 
 I am passionate about creating human-centered, accessible technologies that address the challenges faced by individuals with disabilities. My research focuses on assistive mobility devices and technologies, aiming to empower people with hemiplegia and visual impairments to navigate everyday environments more independently and confidently.
