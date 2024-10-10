@@ -12,10 +12,7 @@ main:
     url: /cv/
     
   - title: "Learnings"
-    url: /learning/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /learning/      
     
   - title: "Blogs"
     url: /blog/
