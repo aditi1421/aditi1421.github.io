@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aditi's Website"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,9 +11,9 @@ HI! I am Aditi, a Research Engineer passionate about designing and working with 
 
 My goal is to make a meaningful impact by designing tools that improve mobility and make everyday life more inclusive. 
 
-Research Interests: Human-Computer Interaction, Assistive Technology, Robotics
+### Research Interests: Human-Computer Interaction, Assistive Technology, Robotics
 
-Technical Skills: C, C++, Python, x86 
 
-Contact: 
+#### Contact: 
+
 Feel free to reach out to me on my email or LinkedIn for any inquiries, collaborations or discussions about assistive technology, people with disabilities and research. I would love to connect and share my ideas! 
