@@ -19,7 +19,7 @@ I am currently working on a project dedicated to developing assistive mobility s
 
 ## Past Research:
 
-## Caper: Network Packet Analysis Tool
+### Caper: Network Packet Analysis Tool
 
 As part of my research at Illinois Tech, I had the opportunity to present my work on Caper, a network packet analysis tool designed to enhance network security measures through advanced packet inspection techniques. This project was co-mentored by Prof. Jeremy Hajek, whose guidance played a pivotal role in its development. The presentation was hosted by Illinois Tech’s chapters of ACM-W and ACM, providing a platform to showcase the practical applications of network security research.
 
@@ -29,7 +29,7 @@ As part of my research at Illinois Tech, I had the opportunity to present my wor
 Recorded Version:  [link](https://cs.iit.edu/~nsultana1/files/aditi_presentation.mp4) 
 
 
-## Technology for Visually Impaired Individuals (National University of Singapore): 
+### Technology for Visually Impaired Individuals (National University of Singapore): 
 
 During my research internship at the National University of Singapore, I developed a device to assist visually impaired individuals. The project involved creating a navigation tool that gives feedback to individuals when it detects objects and makes them aware of potential obstacles and offers assistance in real-time. This work allowed me to explore the intersection of artificial intelligence and assistive technology, and it played a pivotal role in sparking my interest in accessibility research.
 
