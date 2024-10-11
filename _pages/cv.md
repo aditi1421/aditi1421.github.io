@@ -37,7 +37,7 @@ Work experience
   * Illinois Institute of Technology
   * Duties includes:
     	*	Researched and executed Caper, an open-source tool for converting packet filters into machine-executable instructions, enhancing network traffic analysis efficiency by 20%. 
-      *	Video : http://www.cs.iit.edu/~nsultana1/files/aditi_presentation.mp4
+      *	Video : [link](http://www.cs.iit.edu/~nsultana1/files/aditi_presentation.mp4)
   * Supervisor: Nik Sultana
   
 Skills
