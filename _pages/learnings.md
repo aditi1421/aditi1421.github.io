@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /learnings/
+permalink: /learning/
 author_profile: true
 ---
 
