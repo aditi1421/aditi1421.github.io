@@ -21,7 +21,7 @@ repository               : "aditi1421/aditi1421.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "IMG.jpg"
   name             : "Aditi Kumar"
   pronouns         : "she/her"  
   bio              : "Research Engineer at Illinois Institute of Technology"
