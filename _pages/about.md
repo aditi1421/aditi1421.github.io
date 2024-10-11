@@ -18,6 +18,8 @@ My goal is to make a meaningful impact by designing tools that improve mobility 
 ### Research Interests: Human-Computer Interaction, Assistive Technology, Robotics
 
 
+[Download my Resume](assets/files/Aditi__Kumar.pdf) 
+
 #### Contact: 
 
 Feel free to reach out to me on my email or LinkedIn for any inquiries, collaborations or discussions about assistive technology, people with disabilities and research. I would love to connect and share my ideas! 
